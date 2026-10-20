@@ -1,21 +1,48 @@
-MIT License
+# WithoutSky Source-Available License
 
 Copyright (c) 2026 WithoutBen
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Definitions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Software" means the WithoutSky project, including its source code, object code, documentation, and associated assets, except for third-party components governed by their own licenses.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Author" means the original author and copyright holder of the Software.
+
+## 2. Permissions
+
+Subject to the terms below, the Author permits anyone to:
+
+- View and inspect the publicly available source code.
+- Use the source code for personal, non-commercial evaluation and testing.
+- Report bugs, suggest improvements, and submit patches or pull requests to the project.
+
+These permissions do not transfer ownership of the Software.
+
+## 3. Restrictions
+
+Without the Author's prior written permission, you may not:
+
+- Sell, commercially exploit, or use the Software to generate revenue.
+- Distribute, publish, or provide modified or unmodified copies of the Software as a separate product.
+- Rebrand or present the Software, or a derivative work based on it, as your own.
+- Use the Software in a commercial service or product.
+
+## 4. Contributions
+
+By submitting a contribution, you confirm that you have the right to submit it. You grant the Author permission to review, modify, incorporate, distribute, and license your contribution as part of WithoutSky.
+
+Submitting a contribution does not transfer ownership of your contribution to the Author.
+
+## 5. Third-Party Components
+
+Third-party components remain subject to their respective licenses. This license does not override third-party license obligations.
+
+## 6. No Warranty
+
+The Software is provided "as is", without warranty of any kind, to the extent permitted by applicable law.
+
+## 7. Requests for Permission
+
+For commercial licensing, redistribution permissions, or other exceptions, contact the copyright holder through the official WithoutSky project page.
+
+All rights not expressly granted by this license are reserved.
